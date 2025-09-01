@@ -1,2 +1,2 @@
-# githu-actions
+# github-actions
 Demo of Github Actions
